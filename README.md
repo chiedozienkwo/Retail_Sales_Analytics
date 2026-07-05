@@ -76,3 +76,12 @@ Key Insights
 - Data Visualization
 - Business Intelligence
 - Dashboard Design
+
+  - Author
+
+**Nkwo Chiedozie Jonathan**
+
+Data Analyst
+
+- LinkedIn: https://www.linkedin.com/in/chiedozie-nkwo-b01912383
+- GitHub: https://github.com/chiedozienkwo
