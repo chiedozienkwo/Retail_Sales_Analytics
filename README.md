@@ -1,3 +1,6 @@
+Retail-Sales-Analytics
+Retail Sales Analytics project using SQL Server and Power BI.
+
 Retail Sales Analytics
 
  Project Overview
